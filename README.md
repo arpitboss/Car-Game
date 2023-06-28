@@ -1,6 +1,6 @@
 # Car-Game
 
-This is a simple car game developed using Pygame, a popular game development library in Python. In this game, the player controls a car and tries to avoid obstacles while collecting rewards. The objective is to achieve the highest score possible.
+This is a simple car game developed using Pygame, a popular game development library in Python. In this game, the player controls a car and tries to avoid obstacles. The objective is to achieve the highest score possible.
 
 ![Screenshot](screenshot.png)
 
